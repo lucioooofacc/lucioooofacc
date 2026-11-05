@@ -63,11 +63,11 @@ def language_lines(user):
         raise RuntimeError("GitHub no devolvió lenguajes")
     total = sum(totals.values())
     ranked = sorted(totals.items(), key=lambda item: -item[1])[:MAX_LANGUAGES]
-    return [
-        f"  {name:<11}[{('#' * round(size / total * BAR_WIDTH)).ljust(BAR_WIDTH, '.')}]"
-        f" {size / total * 100:5.1f}%"
-        for name, size in ranked
-    ]
+    lines = []
+    for name, size in ranked:
+        bar = ("#" * round(size / total * BAR_WIDTH)).ljust(BAR_WIDTH, ".")
+        lines.append(f'  {name + ":":<12}"{bar}"  # {size / total * 100:.1f}%')
+    return lines
 
 
 def replace_once(pattern, replacement, text):
@@ -85,14 +85,16 @@ def render(text, user):
     prs = work["totalPullRequestContributions"]
     total = work["contributionCalendar"]["totalContributions"]
 
-    text = replace_once(r"Repos:\s+\d+\s+Followers:\s+\d+",
-                        f"Repos:     {repos:<9}Followers:  {followers}", text)
-    text = replace_once(r"Commits:\s+\d+\s+PRs:\s+\d+",
-                        f"Commits:   {commits:<9}PRs:        {prs}", text)
-    text = replace_once(r"Contribuciones último año:\s+\d+",
-                        f"Contribuciones último año:      {total}", text)
+    for pattern, value in (
+        (r"^Repos:\s+\d+", f"Repos:     {repos}"),
+        (r"^Followers:\s+\d+", f"Followers: {followers}"),
+        (r"^Commits:\s+\d+", f"Commits:   {commits}"),
+        (r"^PRs:\s+\d+", f"PRs:       {prs}"),
+        (r"^Contribuciones último año:\s+\d+", f"Contribuciones último año: {total}"),
+    ):
+        text = replace_once(pattern, value, text)
     bars = "\n".join(language_lines(user))
-    return replace_once(r"(^--\[ lenguajes .*\n)(?:  .*\n)+",
+    return replace_once(r"(^# --\[ lenguajes .*\n)(?:  .*\n)+",
                         lambda match: match.group(1) + bars + "\n", text)
 
 

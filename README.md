@@ -46,14 +46,6 @@
     Proyecto de Redes de Datos con ping y arp nativos.
     stack: Java, ExecutorService, com.sun.net.httpserver, bash
 
-  > Cinniminies
-    Emprendimiento propio: diseño y desarrollo del sitio.
-    stack: HTML, CSS, JavaScript, Vercel
-
-  > Coded Bias
-    Documental en inglés: ¿puede ser neutral la tecnología?
-    rol:   Discurso, entrevistas, doblaje y presentación en público
-
 --[ contacto ]----------------------------------------------------------------
   web       <a href="https://luciofacchin.me">luciofacchin.me</a>
   mail      <a href="mailto:luciofacchin.dev@gmail.com">luciofacchin.dev@gmail.com</a>

@@ -1,29 +1,25 @@
 <pre>
 
-           =#%+*++%#+**###%%++.
-       -@@@@@%@@@@@@@@@@@%@@@@@@@*+          lucio@facchin
-      +@@@@@#@@%*+*%%@@@@#@#@@@@@@@@+        -------------
-     @@@@@**@@@@@%*%%@@@*##@*#@@@%%@@@       OS:        Linux
-   -@@#@@#+@@@@#@@%#%#@##%*%@*%@@@%#@%@      Shell:     zsh
-   @@@@@%##@#@@##%@@@@@@@###@@%@%@%%@@=      Host:      Paysandú, Uruguay
-   @@#@%%#@@#@@@@@@@@@%@@#*######@%#@@       Kernel:    ITSP / IT Bilingüe
-   @@#%@@@@@#*+%@@@@+-:+#%*#%@@@@@#%@@       Uptime:    en GitHub desde ago 2025
-  @@@@@@@@@@@*-=@@@@   -@@@@@@@@@@@@@#       Rol:       Student, Dev &amp; web design
-  @@@@@@@@@%@@@*#@@@%*#@@@@@@@@@@@@@%
-   @@@@@%++*#%@@+==+*#@@@%#+=++###@@#        Code:      Java, JavaScript, PHP, SQL
-   *+@@@@: -+++#+==*  *=-+*-=-.:+@@@.        Backend:   Node.js, Express
-   *@@@@=-      .:#    *..      %@@@@@*      Data:      PostgreSQL, MySQL, Supabase
-    @@@@* ----===+.    :=---::.:@@@#@@       Front:     HTML, CSS, JS sin framework
-     :#@#     :::-==:-=-.:::   -@:           Hardware:  Arduino, Redes, Packet Tracer
-       #+         =-=--        *@-           Design:    Figma, DaVinci Resolve, GIMP
-         -       :-------      =-            Idiomas:   Español (nativo), Inglés (C1)
-         *+=---+@@@@@%%@#+-
-           ++++==+++===-----                 Repos:     5        Followers:  6
-            =++=--::.. ::  *@                Commits:   284      PRs:        117
-    -==@       ==-==++=-:  @@                Contribuciones último año:      407
- -*#@@@@-        ------   #@   #@+-
-#%%#%@@@#                %@     #@@%#*==:
-%%%##%@@@      +%@@%+= +   =@@@::@%%@@@@@#
+lucio@facchin
+-------------
+OS:        Linux
+Shell:     zsh
+Host:      Paysandú, Uruguay
+Kernel:    ITSP / IT Bilingüe
+Uptime:    en GitHub desde ago 2025
+Rol:       Student, Dev &amp; web design
+
+Code:      Java, JavaScript, PHP, SQL
+Backend:   Node.js, Express
+Data:      PostgreSQL, MySQL, Supabase
+Front:     HTML, CSS, JS sin framework
+Hardware:  Arduino, Redes, Packet Tracer
+Design:    Figma, DaVinci Resolve, GIMP
+Idiomas:   Español (nativo), Inglés (C1)
+
+Repos:     5        Followers:  6
+Commits:   284      PRs:        117
+Contribuciones último año:      407
 
 --[ lenguajes (bytes en repos públicos propios) ]-----------------------------
   CSS        [#############...........................]  33.1%

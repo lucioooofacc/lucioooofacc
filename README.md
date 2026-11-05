@@ -18,9 +18,9 @@ Idiomas:   Español (nativo), Inglés (C1)
 
 Repos:     6
 Followers: 6
-Commits:   292
+Commits:   293
 PRs:       117
-Contribuciones último año: 416
+Contribuciones último año: 417
 
 # --[ lenguajes (bytes en repos públicos propios) ]---------------------------
   CSS:        "#############..........................."  # 33.1%

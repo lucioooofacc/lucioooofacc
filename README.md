@@ -17,9 +17,9 @@ Hardware:  Arduino, Redes, Packet Tracer
 Design:    Figma, DaVinci Resolve, GIMP
 Idiomas:   Español (nativo), Inglés (C1)
 
-Repos:     5        Followers:  6
-Commits:   284      PRs:        117
-Contribuciones último año:      407
+Repos:     6        Followers:  6
+Commits:   292      PRs:        117
+Contribuciones último año:      416
 
 --[ lenguajes (bytes en repos públicos propios) ]-----------------------------
   CSS        [#############...........................]  33.1%

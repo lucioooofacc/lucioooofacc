@@ -32,7 +32,8 @@ Contribuciones último año:      407
   > <a href="https://github.com/facuduarte-dev/ConnectaLab">ParkEx</a>
     Estacionamientos en tiempo real: sensores, OCR y plano en vivo.
     stack: Arduino, Node.js, Express, PostgreSQL, Java + Tesseract
-    Premio a la mejor exposición oral y excelencia académica (UTEC).
+    Premio a la mejor exposición oral y excelencia académica (UTEC). 
+    Proyecto ganador de 1ra edición de ConectaLab, eje 2 (Programación y pensamiento computacional), categoría EMS
 
   > <a href="https://itspvm.duckdns.org/proyectos/luciooofacc/ITSpace/html/index.php">ITSpace</a>
     Plataforma del instituto: lenguajes, ejercicios, foro y cursos.

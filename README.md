@@ -8,14 +8,14 @@
    @@@@@%##@#@@##%@@@@@@@###@@%@%@%%@@=      Host:      Paysandú, Uruguay
    @@#@%%#@@#@@@@@@@@@%@@#*######@%#@@       Kernel:    ITSP / IT Bilingüe
    @@#%@@@@@#*+%@@@@+-:+#%*#%@@@@@#%@@       Uptime:    en GitHub desde ago 2025
-  @@@@@@@@@@@*-=@@@@   -@@@@@@@@@@@@@#       Rol:       Dev &amp; web design
+  @@@@@@@@@@@*-=@@@@   -@@@@@@@@@@@@@#       Rol:       Student, Dev &amp; web design
   @@@@@@@@@%@@@*#@@@%*#@@@@@@@@@@@@@%
    @@@@@%++*#%@@+==+*#@@@%#+=++###@@#        Code:      Java, JavaScript, PHP, SQL
    *+@@@@: -+++#+==*  *=-+*-=-.:+@@@.        Backend:   Node.js, Express
    *@@@@=-      .:#    *..      %@@@@@*      Data:      PostgreSQL, MySQL, Supabase
     @@@@* ----===+.    :=---::.:@@@#@@       Front:     HTML, CSS, JS sin framework
      :#@#     :::-==:-=-.:::   -@:           Hardware:  Arduino, Redes, Packet Tracer
-       #+         =-=--        *@-           Design:    Figma, DaVinci Resolve
+       #+         =-=--        *@-           Design:    Figma, DaVinci Resolve, GIMP
          -       :-------      =-            Idiomas:   Español (nativo), Inglés (C1)
          *+=---+@@@@@%%@#+-
            ++++==+++===-----                 Repos:     5        Followers:  6

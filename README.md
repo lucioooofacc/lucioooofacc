@@ -60,6 +60,13 @@ Contribuciones último año: 809
   Java:       "#......................................."  # 2.3%
 
 # --[ proyectos ]-------------------------------------------------------------
+SELENE:
+  desc:  Explorador de sitios de alunizaje en el polo sur lunar: Sol, Tierra,
+         energía solar y ventanas de comunicación sobre el relieve real.
+  stack: Vite, JavaScript, three.js, Web Workers, NASA/JPL Horizons, LRO LOLA
+  rol:   Frontend e interfaz, traducción ES/EN y edición del video
+  logro: NASA Space Apps Challenge 2026 (equipo Hubble27), Galactic Problem Solver
+
 ParkEx:
   desc:  Estacionamientos en tiempo real, sensores, OCR y plano en vivo.
   stack: Arduino, Node.js, Express, PostgreSQL, Java + Tesseract
@@ -83,4 +90,4 @@ linkedin: linkedin.com/in/luciofacchin
 # lucio@facchin:~$ _
 ```
 
-[ParkEx](https://github.com/facuduarte-dev/ConnectaLab) · [ITSpace](https://itspvm.duckdns.org/proyectos/luciooofacc/ITSpace/html/index.php) · [EscaneoIP](https://github.com/lucioooofacc/EscaneoIP) · [Web](https://luciofacchin.me) · [Mail](mailto:luciofacchin.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/luciofacchin)
+[SELENE](https://selene-space-apps.vercel.app) · [ParkEx](https://github.com/facuduarte-dev/ConnectaLab) · [ITSpace](https://itspvm.duckdns.org/proyectos/luciooofacc/ITSpace/html/index.php) · [EscaneoIP](https://github.com/lucioooofacc/EscaneoIP) · [Web](https://luciofacchin.me) · [Mail](mailto:luciofacchin.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/luciofacchin)

@@ -48,9 +48,9 @@ Idiomas:   Español (nativo), Inglés (C1)
 
 Repos:     7
 Followers: 6
-Commits:   572
-PRs:       206
-Contribuciones último año: 812
+Commits:   574
+PRs:       207
+Contribuciones último año: 815
 
 # --[ lenguajes (bytes en repos públicos propios) ]---------------------------
   JavaScript: "############################............"  # 70.2%
